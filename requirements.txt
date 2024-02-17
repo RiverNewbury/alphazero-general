@@ -1,4 +1,5 @@
 torch
+torch_geometric
 numpy
 cython
 tensorboard
